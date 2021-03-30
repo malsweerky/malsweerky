@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alsweeerky</h1>
 <h3 align="center">A full-stack Web Developer from Toronto, Canada</h3>
 
-- 💬 Ask me about **JavaScript, Node.js, and React**
+- 💬 Ask me about **JavaScript, Node.js, and React.js**
 
 - 📫 How to reach me **malsweerky@hotmail.com**
 
